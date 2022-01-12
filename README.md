@@ -4,7 +4,6 @@ Python: Python3
 Operating System: Ubuntu 16.04 LTS
 
 Setting up environment:
-Run below command as root
 
 $ apt update
 $ apt install python3-pip

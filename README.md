@@ -11,7 +11,6 @@ $ apt install mysql-server
 $ pip3 install flask
 $ pip3 install pymysql
 
-Download the code: https://github.com/hackaholic/mstakx.git
 
 $ cd mstakx
 $ mysql -u root -p < book.sql
